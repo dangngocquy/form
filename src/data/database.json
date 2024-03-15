@@ -1,0 +1,5431 @@
+[
+  {
+    "id": "084c7721-2d6b-41ee-a2d1-3c2ce07d91dd",
+    "title": "RESTAUTANT DAILY CHECKLIST - MORNING SHIFT\t\t\t\t\t",
+    "contentTitle": "",
+    "bophanAD": "OPS",
+    "date": "10-03-2024 08:29:37",
+    "questions": [
+      {
+        "Cauhoi1": "<p>Khu vực mặt tiền, bãi xe của khách</p><p>Yêu cầu: Sạch sẽ, không có rác</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "OUTSIDE - RESTAURANT"
+      },
+      {
+        "Cauhoi2": "<p>Bảng hiệu, hình ảnh bên ngoài nhà hàng</p><p>Yêu cầu: Sạch sẽ, không bụi, đèn sáng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi3": "<p>Cửa kính, đèn trang trí</p><p>Yêu cầu: Sạch sẽ, không dấu tay, ố bẩn, đèn sáng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi4": "<p>Lễ tân, cửa chính</p><p>Yêu cầu: Gọn gàng, sạch sẽ, tư thế nhân viên sẵn sàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi5": "<p>Khu vực Bảo vệ</p><p>Yêu cầu: Gọn gàng, sạch sẽ, tư thế nhân viên sẵn sàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi6": "<p>Sàn nhà, vách tường kính</p><p>Yêu cầu: Sạch sẽ,không bụi</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "INSIDE - RESTAURANT"
+      },
+      {
+        "Cauhoi7": "<p>Cây cảnh(nếu có)</p><p>Yêu cầu: Sạch sẽ, tươi tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi8": "<p>Máy lạnh, quạt, đèn<br>Yêu cầu: Hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi9": "<p>Bàn ăn, ghế ngồi của khách<br>Yêu cầu: Sạch sẽ không hư hỏng, sét up đúng quy định</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi10": "<p>Bếp điện từ</p><p>Yêu cầu: sạch sẽ, đầy đủ hoạt động tốt&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi11": "<p>Các điều hòa nhiệt độ</p><p>Yêu cầu: Sạch sẽ, trong điều kiện hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi12": "<p>Hũ đựng sốt, tương, chanh…</p><p>Yêu cầu: Sạch sẽ. Châm đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi13": "<p>Menu. Drink List</p><p>Yêu cầu: Sạch sẽ, không rách mép, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi14": "<p>Station đựng chén, đĩa,lót bát,ly cốc</p><p>Yêu cầu: Gọn gàng, sạch sẽ,đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi15": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ,không nhàu nát, đầy đủ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi16": "<p>Khu vực ra hàng</p><p>Yêu cầu: Sạch sẽ, ngăn nắp, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi17": "<p>Check list kiểm tra bếp</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi18": "<p>Bình cứu hỏa</p><p>Yêu cầu: Còn trong điều kiện sử dụng tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi19": "<p>Khu vực toilet</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi20": "<p>Khu vực cashier</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi21": "<p>Khu vực bếp Show</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi22": "<p>Máy POS, máy in, wifi</p><p>Yêu cầu: Hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi23": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ, tư thế nhân viên sẵn sàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "BAR - AREA"
+      },
+      {
+        "Cauhoi24": "<p>Các tủ lạnh, bình nước nóng lạnh</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, châm đủ hàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi25": "<p>Máy in bill quầy bar</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi26": "<p>Máy ép, máy xay</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, xếp gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi27": "<p>Bồn rửa, ly, công dụng cụ bar</p><p>Yêu cầu: Sạch sẽ, vệ sinh, ngăn nắp</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi28": "<p>Các loại Trái cây</p><p>Yêu cầu: Đầy đủ, sẵn sàng phục vụ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi29": "<p>Nước ngọt, bia chai,thức uống lon</p><p>Yêu cầu: Đầy đủ, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi30": "<p>Tủ rượu, các thức uống khác</p><p>Yêu cầu: Sach sẽ, thu xếp ngăn nắp, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi31": "<p>Các thùng đá&nbsp;</p><p>Yêu cầu: Vệ sinh sạch sẽ, gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi32": "<p>Sàn nhà khu vực bar</p><p>Yêu cầu: Sạch sẽ. Vệ sinh, khô ráo.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi33": "<p>Thao tác nhân viên</p><p>Yêu cầu: AT VSTP, nhanh nhẹn, đúng quy trình pha chế</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi34": "<p>Bố trí khu vực</p><p>Yêu cầu: Sạch sẽ, ngăn nắp, thuận tiện cho công việc</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi35": "<p>Máy bia, vòi bia, khay hứng bia</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi36": "<p>Checklist bia, trái cây</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi37": "<p>Thẻ kho Bar</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi38": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ, đầy đủ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "KITCHEN - AREA",
+        "noidungphieuthem": ""
+      },
+      {
+        "Cauhoi39": "<p>Sàn nhà, vách tường</p><p>Yêu cầu: Sạch sẽ khô ráo</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi40": "<p>Máy in bill quầy bếp</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi41": "<p>Hệ thống quạt hút, quạt máy</p><p>Yêu cầu: Sạch sẽ, không bụi, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi42": "<p>Khu rửa chén, mop ,hệ thống cống</p><p>Yêu cầu: Sạch sẽ ngăn nắp, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi43": "<p>Tủ lạnh, tủ đông, máy rửa chén</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, VS ATTP</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi44": "<p>Các bồn rửa</p><p>Yêu cầu: Sạch sẽ vệ sinh, hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi45": "<p>Bàn ra hàng inox</p><p>Yêu cầu: Sắp xếp gọn gàng, sạch sẽ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi46": "<p>Bàn chế biến thực phẩm</p><p>Yêu cầu: Sắp xếp gọn gàng, sẵn sàng xuất đồ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi47": "<p>Máy cắt thịt, bếp á…</p><p>Yêu cầu: Sạch sẽ, hoat động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi48": "<p>Thực phẩm, rau củ, thịt, hải sản</p><p>Yêu cầu: Đầy đủ, bảo quản đúng quy trình, đạt chất lượng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi49": "<p>Khu vực quầy rau</p><p>Yêu cầu: Đầy đủ, bảo quản đúng quy trình, đạt chất lượng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi50": "<p>Thao tác NV</p><p>Yêu cầu: Nhanh nhẹn, VS TP, chính xác, an toàn lao động</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi51": "<p>Khu vực ra thực phẩm</p><p>Yêu cầu: Sạch se ngăn nắp, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi52": "<p>Projection trong ca</p><p>Yêu cầu: Thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi53": "<p>Máy rửa chén&nbsp;</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi54": "<p>Khu Locker của nhân viên</p><p>Yêu cầu: Sạch sẽ vệ sinh, gọn gàng, đủ khóa.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi55": "<p>Kho Gas</p><p>Yêu câu: An toàn, sạch sẽ, gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi56": "<p>Cập nhật thông tin món ăn</p><p>Yêu cầu: Báo đúng giờ đồ hết, đồ cần bán, đồ còn ít</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "SERVICE STYLE"
+      },
+      {
+        "Cauhoi57": "<p>Đồng phục, râu tóc, nhẫn, móng tay</p><p>Yêu cầu: Gọn gang, sạch sẽ, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi58": "<p>Thái độ phục vụ</p><p>Yêu cầu: Nhẹ nhàng thân thiện</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi59": "<p>Giao tiếp</p><p>Yêu cầu: Thân thiện, mến khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi60": "<p>Ánh mắt nét mặt</p><p>Yêu cầu: Tươi cười nhìn khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi61": "<p>Thái độ cử chỉ</p><p>Yêu cầu: Lịch sự, nhanh nhẹn, lễ phép</p><p>&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi62": "<p>Up Sales</p><p>Yêu cầu: Tự tin mời khách dùng thêm món ăn, đồ uống</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi63": "<p>Phục vụ món ăn</p><p>Yêu cầu: Chính xác yêu cầu của khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi64": "<p>Thao tác NV ( cắt thịt, múc lẩu &nbsp;)</p><p>Yêu cầu: Chuẩn xác, đẹp mắt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi65": "<p>Thanh toán</p><p>Yêu cầu: Nhanh nhẹn chính xác</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      }
+    ],
+    "nguoitaophieu": "Phạm Nguyễn Hoàng Anh"
+  },
+  {
+    "id": "d62ab84e-2a84-4359-b29c-e486c5ca0dbd",
+    "title": "INTERNAL CONTROL CHECKLIST FORM - OPERATING",
+    "contentTitle": "<p><i>Note: đạt Yes=1, Không đạt No =1 điền ghi chú lỗi sai vào \"Mục khác\". Tại các mục từ 6.1 đến mục 6.9 lỗi Extreme Risk = 0: Ngừng Checklist - Lập biên bản sự việc</i></p>",
+    "bophanAD": "IC",
+    "date": "10-03-2024 09:48:44",
+    "questions": [
+      {
+        "Cauhoi1": "<p>Lỗi Nghiêm Trọng (Extreme Risk)</p>",
+        "options": [],
+        "luachon": {
+          "option0": false,
+          "option1": true,
+          "option2": false,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": false
+      },
+      {
+        "Cauhoi2": "<p><strong>1.1</strong> Nhà hàng có nộp tiền Bank - in theo đúng quy định của Công ty không?</p><p>- Đi Bank-in theo đúng thời gian công ty quy định.</p><p>- Bảng kê nộp tiền phải ghi đúng số tiền thực nộp.</p><p>- QLNH/NĐUQ là người trực tiếp bank-in.</p><p>- Nhà hàng có gửi giấp nộp tiền về kế toán, KSNB đúng thời gian quy định.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "1 - BÁO CÁO DOANH THU - TÀI CHÍNH NHÀ HÀNG"
+      },
+      {
+        "Cauhoi3": "<p><strong>1.2</strong> Tiền trong két có khớp với báo cáo doanh thu ghi nhận trên POS.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi4": "<p><strong>1.3</strong> Tiền tồn trong két thu ngân có khớp với sổ quỹ thu ngân không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi5": "<p><strong>1.4</strong> Các khoản chi trong quỹ thu ngân có chứng từ hợp lệ không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi6": "<p><strong>1.5</strong> Sổ quỹ thu ngân, Sổ bàn giao Doanh thu, Sổ banking có được cập nhật đầy đủ và chính xác không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi7": "<p><strong>1.6 </strong>Có khớp order với bill tính tiền không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi8": "<p><strong>1.7 </strong>Tất cả bill thanh toán đã được đóng dấu \"Đã Thu Tiền\", đầy đủ chữ ký theo quy định(Chữ ký khách hàng, Chữ ký của Quản lý khi giảm giá(Cuối ca).</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi9": "<p><strong>1.8</strong> Xuất hóa đơn VAT đúng thời gian quy định (30 phút)</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi10": "<p><strong>1.9</strong> Số lượng bàn thực tế so với POS khớp</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi11": "<p><strong>Tổng câu 1:</strong></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "No",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi12": "<p><strong>2.1</strong></p><p>- Giấy bổ nhiệm đối với RM.</p><p>- Giấy ủy quyền AM để tiếp đoàn.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "2 - QUẢN LÝ NHÂN SỰ TẠI NHÀ HÀNG",
+        "noidungphieuthem": ""
+      },
+      {
+        "Cauhoi13": "<p><strong>2.2</strong> Số lượng nhân viên thực tế ở nhà hàng tại thời điểm kiểm tra khớp so với dấu vân tay của hệ thống và lịch làm việc của nhà hàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi14": "<p><strong>2.3</strong>&nbsp;Tác phong, đồng phục nhân viên có đúng với quy định Công Ty:</p><p>- Bảng tên, giày dép, tạp dề, nón...</p><p>- Tác phong đầy đủ, gọn gàng khi vào ca.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi15": "<p><strong>2.4</strong>&nbsp;Quản lý nhà hàng (Quản lý, trợ lý, giám sát) tại thời điểm kiểm tra khớp lịch làm việc và dấu vân tay của hệ thống:</p><p>- Giờ mở ca bắt buộc phải có quản lý ca(Theo lịch QL)</p><p>- Xác nhận của AM đối với trường hợp Quản lý không đi làm đúng lịch.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi16": "<p><strong>2.5&nbsp;</strong>Quản lý ca hoặc bảo vệ có kiểm soát giỏ nhân viên ra/vào Nhà hàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi17": "<p><strong>Tổng kết 2:</strong></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "No",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi18": "<p><strong>3.1 </strong>Nhà hàng có thực hiện khóa và bàn giao mã két sắt theo đúng quy định hay không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "3 - KIỂM SOÁT TUÂN THỦ TRONG HOẠT ĐỘNG"
+      },
+      {
+        "Cauhoi19": "<p><strong>3.2&nbsp;</strong>Nhà hàng có thực hiện niêm phong các phong bì, két sắt đúng và đầy đủ không?(Tem niêm phong phải có đầy đủ chữ ký các bên liên quan và ngày tháng niêm phong)</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi20": "<p><strong>3.3&nbsp;</strong>Nhà hàng có thực hiện khóa hệ thống cửa đúng quy định không?</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi21": "<p><strong>3.4 </strong>Giảm giá nhân viên đầy đủ chữ ký, mã số nhân viên phòng ban.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi22": "<p><strong>3.5 </strong>Thực hiện đúng chương trình khuyến mãi theo Memo MKT.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi23": "<p><strong>3.6&nbsp;</strong>Thẻ Quản lý, thẻ Partnership được sử dụng và lưu trữ đúng quy định.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi24": "<p><strong>3.7&nbsp;</strong>Nhà hàng có mở nhạc, video theo đúng quy định.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi25": "<p><strong>3.8&nbsp;</strong>Nhà hàng có thực hiện \"Daily Checklist\" theo đúng quy định.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi26": "<p><strong>Tổng kết 3:</strong></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "No",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi27": "<p><strong>4.1 </strong>Giấy chứng nhận đăng ký địa điểm kinh doanh/Chi nhánh kinh doanh</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "4 - TUÂN THỦ QUY ĐỊNH NHÀ NƯỚC"
+      },
+      {
+        "Cauhoi28": "<p><strong>4.2 </strong>Đăng ký khuyến mãi Sở Công Thương</p><p><i>(Tổng giá trị khuyến mãi từ 100 triệu trở lên)</i></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi29": "<p><strong>4.3 </strong>Bộ hồ sơ PCCC:</p><p>- Nội quy PCCC, Nội quy sử dụng điện,</p><p>- Quyết định thành lập lực lượng PCCC tại cơ sở;</p><p>- Giấy chứng nhận huấn luyện nghiệp vụ về PCCC của nhân viên;</p><p>- Phương án chữa cháy cơ sở;</p><p>- Bảng thống kê các phương tiện chữa cháy tại cơ sở;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi30": "<p><strong>4.4</strong></p><p>- Nhà hàng có bình PCCC và còn hạn sử dụng.</p><p>- Có bảng chỉ dẫn thoát hiểm khi gặp sự cố.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi31": "<p><strong>Tổng kết 4:</strong></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "No",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi32": "<p><strong>5.1 </strong>CCDC và TSCĐ tại nhà hàng có được cập nhật, theo dõi đúng quy định không( theo dõi nhập, xuất, điều chuyển, tồn hàng tháng)</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "5 - QUẢN LÝ HÀNG HÓA, TÀI SẢN, CCDC"
+      },
+      {
+        "Cauhoi33": "<p><strong>5.2 </strong>Hàng hủy có được lập biên bản kịp thời và đầy đủ theo quy định.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi34": "<p><strong>5.3&nbsp;</strong>Hàng hóa nhập điều, xuất điều có được theo dõi đầy đủ và chính xác</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi35": "<p><strong>5.4 </strong>Thẻ kho Bar có được cập nhật đầy đủ và chính xác.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi36": "<p><strong>5.5&nbsp;</strong>Thẻ kho Gift có được cập nhật đầy đủ và chính xác.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi37": "<p><strong>5.6&nbsp;</strong>Thẻ kho Bếp có được cập nhật đầy đủ và chính xác.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi38": "<p><strong>5.7&nbsp;</strong>Kiểm kê khớp với thẻ kho Bar.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi39": "<p><strong>5.8&nbsp;</strong>Kiểm kê khớp với thẻ kho Gift.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi40": "<p><strong>5.9&nbsp;</strong>Kiểm kê khớp với thẻ kho Bếp.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi41": "<p><strong>Tổng kết 5:</strong></p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "No",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi42": "<p><strong>6 - LỖI EXTREME RISK</strong></p><ol><li>1.Khách sử dụng món chưa nhập bàn, chưa nhập món trên POS.</li><li>2.Bán hàng hóa không thuộc mặt hàng của Công ty trong nhà hàng.</li><li>3.Tự xuất hóa đơn VAT sai đối tượng.</li><li>4.Dùng thẻ Creditcard cá nhân để cà thẻ máy nhà hàng và rút tiền mặt ra.</li><li>5.Chấp nhận thanh toán ngoại hối.</li><li>6.Hàng hóa lưu trữ không đúng nơi quy định, hàng hóa ra vào nhà hàng không có thông tin sổ sách, chứng minh Xuất - Nhập.</li><li>7.Có tình trạng nhân viên không có thật tại nhà hàng không? (Đối chiếu giữa bảng chấm công và lịch làm việc của nhân viên tại nhà hàng). Có dấu vân tay, có lịch làm nhưng không có mặt tại nhà hàng.</li><li>8.Quy đổi Voucher thành tiền mặt.</li><li>9.Nhân viên tích lũy Saigon Taste để sử dụng?</li></ol>",
+        "options": [],
+        "luachon": {
+          "option0": false,
+          "option1": true,
+          "option2": false,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": false
+      }
+    ],
+    "nguoitaophieu": "Phạm Nguyễn Hoàng Anh"
+  },
+  {
+    "id": "639aa2df-a999-4da7-bbf1-fffedc1000be",
+    "title": "RESTAUTANT DAILY CHECKLIST - EVENING SHIFT",
+    "contentTitle": "",
+    "bophanAD": "OPS",
+    "date": "10-03-2024 17:02:54",
+    "questions": [
+      {
+        "Cauhoi1": "<p>Khu vực mặt tiền, bãi xe của khách.</p><p>Yêu cầu: Sạch sẽ, không có rác.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "OUTSIDE - RESTAURANT"
+      },
+      {
+        "Cauhoi2": "<p>Bảng hiệu, hình ảnh bên ngoài nhà hàng</p><p>Yêu cầu: Sạch sẽ, không bụi, đèn sáng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi3": "<p>Cửa kính, đèn trang trí</p><p>Yêu cầu: Sạch sẽ, không dấu tay, ố bẩn, đèn sáng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi4": "<p>Lễ tân, cửa chính</p><p>Yêu cầu: Gọn gàng, sạch sẽ, tư thế nhân viên sẵn sàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi5": "<p>Sàn nhà, vách tường kính</p><p>Yêu cầu: Sạch sẽ,không bụi</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "INSIDE - RESTAURANT"
+      },
+      {
+        "Cauhoi6": "<p>Cây cảnh(nếu có)</p><p>Yêu cầu: Sạch sẽ, tươi tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi7": "<p>Máy lạnh, quạt, đèn</p><p>Yêu cầu: Hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi8": "<p>Bàn ăn, ghế ngồi của khách</p><p>Yêu cầu: Sạch sẽ không hư hỏng, sét up đúng quy định</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi9": "<p>Bếp điện từ</p><p>Yêu cầu: sạch sẽ, đầy đủ hoạt động tốt&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi10": "<p>Các điều hòa nhiệt độ</p><p>Yêu cầu: Sạch sẽ, trong điều kiện hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi11": "<p>Hũ đựng sốt, tương, chanh…</p><p>Yêu cầu: Sạch sẽ. Châm đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi12": "<p>Menu. Drink List</p><p>Yêu cầu: Sạch sẽ, không rách mép, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi13": "<p>Station đựng chén, đĩa,lót bát,ly cốc</p><p>Yêu cầu: Gọn gàng, sạch sẽ,đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi14": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ,không nhàu nát, đầy đủ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi15": "<p>Khu vực ra hàng</p><p>Yêu cầu: Sạch sẽ, ngăn nắp, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi16": "<p>Check list kiểm tra bếp</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi17": "<p>Bình cứu hỏa</p><p>Yêu cầu: Còn trong điều kiện sử dụng tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi18": "<p>Khu vực toilet</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi19": "<p>Khu vực cashier</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi20": "<p>Khu vực bếp Show</p><p>Yêu cầu: sạch sẽ, gọn gàng, đầy đủ trang thiết bị</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi21": "<p>Máy POS, máy in, wifi</p><p>Yêu cầu: Hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi22": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ, tư thế nhân viên sẵn sàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "BAR - AREA",
+        "noidungphieuthem": ""
+      },
+      {
+        "Cauhoi23": "<p>Các tủ lạnh, bình nước nóng lạnh</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, châm đủ hàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi24": "<p>&nbsp;Máy in bill quầy bar</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi25": "<p>Máy ép, máy xay</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, xếp gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi26": "<p>Bồn rửa, ly, công dụng cụ bar</p><p>Yêu cầu: Sạch sẽ, vệ sinh, ngăn nắp</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi27": "<p>Các loại Trái cây</p><p>Yêu cầu: Đầy đủ, sẵn sàng phục vụ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi28": "<p>Nước ngọt, bia chai,thức uống lon</p><p>Yêu cầu: Đầy đủ, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi29": "<p>Tủ rượu, các thức uống khác&nbsp;</p><p>Yêu cầu: Sach sẽ, thu xếp ngăn nắp, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi30": "<p>Các thùng đá&nbsp;</p><p>Yêu cầu: Vệ sinh sạch sẽ, gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi31": "<p>Sàn nhà khu vực bar</p><p>Yêu cầu: Sạch sẽ. Vệ sinh, khô ráo.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi32": "<p>Thao tác nhân viên</p><p>Yêu cầu: AT VSTP, nhanh nhẹn, đúng quy trình pha chế</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi33": "<p>Bố trí khu vực</p><p>Yêu cầu: Sạch sẽ, ngăn nắp, thuận tiện cho công việc</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi34": "<p>Máy bia, vòi bia, khay hứng bia</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi35": "<p>Checklist bia, trái cây</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi36": "<p>Thẻ kho Bar</p><p>Yêu cầu: Có thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi37": "<p>Đồng phục nhân viên</p><p>Yêu cầu: Gọn gàng, sạch sẽ, đầy đủ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "KITCHEN - AREA"
+      },
+      {
+        "Cauhoi38": "<p>Sàn nhà, vách tường</p><p>Yêu cầu: Sạch sẽ khô ráo</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi39": "<p>Máy in bill quầy bếp</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi40": "<p>Hệ thống quạt hút, quạt máy</p><p>Yêu cầu: Sạch sẽ, không bụi, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi41": "<p>Khu rửa chén, mop ,hệ thống cống</p><p>Yêu cầu: Sạch sẽ ngăn nắp, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi42": "<p>Tủ lạnh, tủ đông, máy rửa chén</p><p>Yêu cầu: Sạch sẽ, hoat động tốt, VS ATTP</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi43": "<p>Các bồn rửa&nbsp;</p><p>Yêu cầu: Sạch sẽ vệ sinh, hoạt động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi44": "<p>Bàn ra hàng inox</p><p>Yêu cầu: Sắp xếp gọn gàng, sạch sẽ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi45": "<p>Bàn chế biến thực phẩm</p><p>Yêu cầu: Sắp xếp gọn gàng, sẵn sàng xuất đồ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi46": "<p>Máy cắt thịt, bếp á…</p><p>Yêu cầu: Sạch sẽ, hoat động tốt.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi47": "<p>Thực phẩm, rau củ, thịt, hải sản</p><p>Yêu cầu: Đầy đủ, bảo quản đúng quy trình, đạt chất lượng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi48": "<p>Khu vực quầy rau</p><p>Yêu cầu: Đầy đủ, bảo quản đúng quy trình, đạt chất lượng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi49": "<p>Thao tác NV</p><p>Yêu cầu: Nhanh nhẹn, VS TP, chính xác, an toàn lao động</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi50": "<p>Khu vực ra thực phẩm</p><p>Yêu cầu: Sạch se ngăn nắp, sẵn sàng xuất đồ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi51": "<p>Projection trong ca</p><p>Yêu cầu: Thực hiện đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi52": "<p>Máy rửa chén&nbsp;</p><p>Yêu cầu: Sạch sẽ, hoạt động tốt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi53": "<p>Khu Locker của nhân viên</p><p>Yêu cầu: Sạch sẽ vệ sinh, gọn gàng, đủ khóa.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi54": "<p>Kho Gas</p><p>Yêu cầu: An toàn, sạch sẽ, gọn gàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi55": "<p>Cập nhật thông tin món ăn</p><p>Yêu cầu: Báo đúng giờ đồ hết, đồ cần bán, đồ còn ít</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "SERVICE STYLE"
+      },
+      {
+        "Cauhoi56": "<p>Đồng phục, râu tóc, nhẫn, móng tay</p><p>Yêu cầu: Gọn gang, sạch sẽ, đầy đủ</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi57": "<p>Thái độ phục vụ</p><p>Yêu cầu: Nhẹ nhàng thân thiện</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi58": "<p>Giao tiếp</p><p>Yêu cầu: Thân thiện, mến khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi59": "<p>Ánh mắt nét mặt</p><p>Yêu cầu: Tươi cười nhìn khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi60": "<p>Thái độ cử chỉ</p><p>Yêu cầu: Lịch sự, nhanh nhẹn, lễ phép</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi61": "<p>Up Sales</p><p>Yêu cầu: Tự tin mời khách dùng thêm món ăn, đồ uống</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi62": "<p>Phục vụ món ăn</p><p>Yêu cầu: Chính xác yêu cầu của khách</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi63": "<p>Thao tác NV ( cắt thịt, múc lẩu &nbsp;)</p><p>Yêu cầu: Chuẩn xác, đẹp mắt</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi64": "<p>Thanh toán</p><p>Yêu cầu: Nhanh nhẹn chính xác</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      }
+    ],
+    "nguoitaophieu": "Phạm Nguyễn Hoàng Anh"
+  },
+  {
+    "id": "8f42df1e-2e86-43ef-b3d6-6e6ec164ca5a",
+    "title": "MARKETING - CHECKLIST",
+    "contentTitle": "<p>Mức tính serivce change: Từ 70% trở lên: 100% service charge, Dưới 70%: trừ 10% service charge.</p><p>Lưu ý:</p><p>- Luôn ưu tiên phục vụ khách hàng trong quá trình kiểm tra.</p><p>- Thực hiện bảng kiểm tra tránh thời gian nhà hàng đang đông khách, ảnh hưởng tới việc kinh doanh của nhà hàng.</p><p>- Các nội dung kiểm tra không đạt yêu cầu phải được ghi rõ lý do không đạt.</p>",
+    "bophanAD": "MKT",
+    "date": "11-03-2024 16:25:29",
+    "questions": [
+      {
+        "Cauhoi1": "<p>1.1.Biển bảng nhận diện thương hiệu (Logo, tay vẫy, logo thả trần …)</p><p>Yêu cầu:&nbsp;</p><p>Logo sáng đèn, màu sắc đúng quy chuẩn.</p><p>Thân logo còn tốt, ko rơi rớt hư hỏng.</p><p>Nơi đặt logo thẳng thớm, không bị chông chênh do va chạm.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "1.LOGO - BẢNG HIỆU - NHẬN DIỆN THƯƠNG HIỆU (25%)"
+      },
+      {
+        "Cauhoi2": "<p>1.2.Hộp đèn quảng cáo/TV</p><p>Yêu cầu:&nbsp;</p><p>Logo sáng đèn, màu sắc đúng quy chuẩn, nội dung chính xác.</p><p>Artwork lightbox đúng nội dung và quy cách sản xuất.</p><p>Tivi không bị nhòe màu, lỗi hiển thị, chỉ trình chiếu các nội dung từ MKT.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi3": "<p>1.3.Decal full kính&nbsp;</p><p>Yêu cầu: Nội dung chính xác, quy cách sản xuất chất lượng, không bong tróc&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi4": "<p>1.4.Decal logo dán kính&nbsp;</p><p>Yêu cầu: Logo chỉnh chu, không bong tróc, dán đúng quy cách.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi5": "<p>1.5.Decal mờ dán che chắn cửa nội bộ</p><p>Yêu cầu:</p><p>Logo chỉnh chu, không bong tróc, dán đúng quy cách.</p><p>Decal mờ dán sạch sẽ, không bong tróc.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi6": "<p>1.6.Decal che chắn các thiết bị (tủ lạnh, tủ bia, máy ép mía, tủ kem, tủ mát …)</p><p>Yêu cầu: Decal mờ dán sạch sẽ, không bong tróc&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi7": "<p>1.7.Booth trưng bày/kệ trưng bày theo mùa&nbsp;</p><p>Yêu cầu:&nbsp;</p><p>Nội dung, artwork chính xác từ team thiết kế.</p><p>Chất liệu chắc chắn, không ọp ẹp, không gây ảnh hưởng tầm nhìn và thẩm mỹ.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi8": "<p>1.8.Bảng đồng thông tin NH</p><p>Yêu cầu: Bảng inox thông tin chính xác, hình thức đồng bộ&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi9": "<p>1.9.Bảng đồng chỉ dẫn bên trong NH</p><p>Yêu cầu:&nbsp;</p><p>Bảng inox thông tin chính xác, đúng công năng và quy cách đồng nhất.</p><p>Bảng inox phải an toàn, chắc chắn, tránh ánh hưởng khách hàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi10": "<p>2.1.Chân trưng bày menu</p><p>Yêu cầu:&nbsp;</p><p>Chân menu phải vững chắc, kích thước phù hợp đặt để menu</p><p>Chân menu đi kèm đèn chiếu sáng, hoạt động tốt&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "2.POSM và triển khai CTKM Marketing (60%)"
+      },
+      {
+        "Cauhoi11": "<p>2.2.Menu trưng bày<br>Yêu cầu: Menu nguyên vẹn, không hư hảo, thông tin chính xác&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi12": "<p>2.3.Chân trưng bày poster 60x80cm</p><p>Yêu cầu:&nbsp;</p><p>Chân đế nguyên vẹn, không khập khiễng, điều cao điều chỉnh theo từng NH</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi13": "<p>2.4.Poster 60x80cm</p><p>Yêu cầu:</p><p>Poster trưng bày đúng nội dung và thời gian hoạt động.</p><p>Poster trưng bày còn nguyên vẹn, không sờn rách, không hư hại bề mặt.</p><p>Poster trưng bày phải cố định trên chân trưng bày menu, tránh gió to.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi14": "<p>2.5.Chân đế tentcard để bàn</p><p>Yêu cầu: Đế tentcard theo mẫu mới nhất, đặt vững chắc trên bàn kèm mica không ố vàng, không hư hỏng nứt bể</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi15": "<p>2.6.Tentcard</p><p>Yêu cầu: Nội dung đúng, trưng bày đủ 2 mặt, không đặt để nội dung chưa được cho phép</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi16": "<p>2.7.Menu cuốn</p><p>Yêu cầu:&nbsp;</p><p>Bìa menu sạch sẽ và nguyên vẹn.</p><p>Ruột menu đủ trang, đúng nội dung và hiển thị rõ nét.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi17": "<p>2.8.Menu tờ rời</p><p>Yêu cầu: Menu tờ rời nguyên vẹn, đúng nội dung và thời gian triển khai</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi18": "<p>2.9.Table mat</p><p>Yêu cầu: Sử dụng đúng thiết kế table mat trong từng giai đoạn khi phục vụ khách hàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi19": "<p>2.10.Bộ các ccdc tại NH</p><p>Yêu cầu: Sử dụng đúng thiết kế ly giấy ban hành cho từng thương hiệu&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi20": "<p>2.11.Tag tên bánh</p><p>Yêu cầu: Tag bánh đúng nội dung, đơn giá và quy cách đồng nhất theo quy định</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi21": "<p>2.12.Tag giá gift</p><p>Yêu cầu:&nbsp;</p><p>Tag gift đúng nội dung, đơn giá và quy cách đồng nhất theo quy định.&nbsp;<br>Mica tag bánh sạch sẽ, nguyên vẹn, không ố vàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi22": "<p>2.13.Tab tính tiền</p><p>Yêu cầu: Luôn phục vụ tab tính tiền cho khách, không đặt POSM khách vào trong tab tính tiền</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi23": "<p>2.14.Danh thiếp NH</p><p>Yêu cầu: Danh thiếp đúng nội dung và quy cách sản xuất&nbsp;</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi24": "<p>2.15.POSM các bên đối tác</p><p>Yêu cầu: Trưng bày POSM theo quy định từ MKT, không trưng bày các POSM khác từ các bên thứ 3 ngoại trừ QR code ngân hàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi25": "<p>2.16.Nắm rõ nội dung tại menu</p><p>Yêu cầu: Nhân viên nắm rõ thông tin tên món + section món ăn trên menu và ipad để tư vấn cho khách hàng</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi26": "<p>2.17.Chương trình MKT</p><p>Yêu cầu:&nbsp;</p><p>Nhân viên nắm rõ nội dung CT Marketing (Khuyến mãi, giảm giá) và tư vấn cho khách hàng.</p><p>Nhân viên biết cách giải thích về các chương trình menu mới, món mới.</p><p>Nhân viên biết cách giải thích về các quy định về CTKM, chương trình khách hàng thành viên.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi27": "<p>3.1.Ngăn nắp quầy kệ</p><p>Yêu cầu: Sản phẩm, nguyên vật liệu sắp xếp gọn gàng, không bày bừa túi nilon và các nhãn hiệu khác</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true,
+        "tieudephieuthem": "3.HÌNH THỨC SẮP XẾP, TRƯNG BÀY, NGĂN NẮP (15%)\t\t\t\t"
+      },
+      {
+        "Cauhoi28": "<p>3.2.Độ đa dạng của sản phẩm</p><p>Yêu cầu: Sản phẩm được trưng bày đầy đủ từ cà phê, quà tặng theo mùa, quà tặng truyền thống</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi29": "<p>3.3.Hình thức sắp xếp, trưng bày sản phẩm</p><p>Yêu cầu:&nbsp;</p><p>Sản phẩm được trưng bày bắt mắt, sắp xếp ngăn nắp từng khu vực sản phẩM, rõ ràng.</p><p>Sản phẩm trưng bày tại quầy bar, kệ gift không ảnh hưởng đến tầm nhìn, trải nghiệm khách hàng.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi30": "<p>3.4.List nhạc</p><p>Yêu cầu:&nbsp;</p><p>Sử dụng đúng list nhạc được MKT cung cấp, không tự ý dùng nhạc khác.</p><p>Lời bài hát không vi phạm thuần phong mỹ tục, không chửi bậy, nội dung không phù hợp.</p>",
+        "options": [
+          {
+            "tuychon": "Yes",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "N/A",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      }
+    ],
+    "nguoitaophieu": "Phạm Nguyễn Hoàng Anh"
+  },
+  {
+    "id": "82cdf408-d595-419f-99b6-ce1deab4e296",
+    "title": "checkbox",
+    "contentTitle": "<p>checkbox</p>",
+    "bophanAD": "IT",
+    "date": "12-03-2024 03:17:47",
+    "questions": [
+      {
+        "Cauhoi1": "<p>checkbox</p>",
+        "options": [
+          {
+            "tuychon": "",
+            "tuychonnhieu": "checkbox"
+          },
+          {
+            "tuychon": "",
+            "tuychonnhieu": "checkbox"
+          },
+          {
+            "tuychon": "",
+            "tuychonnhieu": "checkbox"
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": false,
+          "option3": true,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": true,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi2": "<p>checkbox</p>",
+        "options": [
+          {
+            "tuychon": "",
+            "tuychonnhieu": "checkbox"
+          },
+          {
+            "tuychon": "",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": false,
+          "option3": true,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": true,
+        "cauhoibatbuoc": true
+      }
+    ],
+    "nguoitaophieu": "Đặng Ngọc Quý",
+    "nguoichinhsua": "Đặng Ngọc Quý - ( IT )"
+  },
+  {
+    "id": "853e2a9f-ebee-4b0f-a244-7490bf86f9ca",
+    "title": "Radio",
+    "contentTitle": "<p>Radiok</p>",
+    "bophanAD": "IT",
+    "date": "12-03-2024 03:17:47",
+    "questions": [
+      {
+        "Cauhoi1": "<p>Radio</p>",
+        "options": [
+          {
+            "tuychon": "Radio",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "Radio",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi2": "<p>Radio</p>",
+        "options": [
+          {
+            "tuychon": "Radio",
+            "tuychonnhieu": ""
+          },
+          {
+            "tuychon": "Radio",
+            "tuychonnhieu": ""
+          }
+        ],
+        "luachon": {
+          "option0": false,
+          "option1": false,
+          "option2": true,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": true,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      }
+    ],
+    "nguoitaophieu": "Đặng Ngọc Quý",
+    "nguoichinhsua": "Người dùng - ( QC )"
+  },
+  {
+    "id": "0cfde76c-ac0a-45dd-910f-6a88eb890d6e",
+    "title": "TEXTBOX",
+    "contentTitle": "<p>TEXTBOX</p>",
+    "bophanAD": "ic",
+    "date": "14-03-2024 23:23:36",
+    "questions": [
+      {
+        "Cauhoi1": "<p>TEXTBOX</p>",
+        "options": [],
+        "luachon": {
+          "option0": true,
+          "option1": false,
+          "option2": false,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": false,
+        "noidung": "<p>OK</p>"
+      },
+      {
+        "Cauhoi2": "<p>TEXTBOX</p>",
+        "options": [],
+        "luachon": {
+          "option0": false,
+          "option1": true,
+          "option2": false,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": true
+      },
+      {
+        "Cauhoi3": "<p>TEXTBOX</p>",
+        "options": [],
+        "luachon": {
+          "option0": false,
+          "option1": true,
+          "option2": false,
+          "option3": false,
+          "option4": false
+        },
+        "luachonbieutuong": {
+          "ngoisao": false,
+          "traitim": false,
+          "daukiem": false,
+          "so": false
+        },
+        "tuychonkhac": false,
+        "tuychonnhieukhac": false,
+        "cauhoibatbuoc": false
+      }
+    ],
+    "nguoitaophieu": "Đặng Ngọc Quý"
+  }
+]

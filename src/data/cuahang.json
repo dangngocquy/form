@@ -1,0 +1,87 @@
+[
+  {
+    "id": "d7da3701-666c-4f48-a499-8f3a51341755",
+    "restaurant": " RuNam Vincom Đồng Khởi",
+    "code": "123vcdk1"
+  },
+  {
+    "id": "63206bc8-2a3f-4674-90bc-4362895a179b",
+    "restaurant": "RuNam Trần Ngọc Diện",
+    "code": " 123Tnd1"
+  },
+  {
+    "id": "c2fd82ea-6a1b-4455-8549-446b4cbfa0e6",
+    "restaurant": "RuNam Bitexco",
+    "code": "BTC"
+  },
+  {
+    "id": "240eb40c-74f5-48c5-a332-937c34aaa3ca",
+    "restaurant": "RuNam Estella",
+    "code": "RNEST"
+  },
+  {
+    "id": "b29e4fd8-8323-4dd6-86cb-f81047475df1",
+    "restaurant": "RuNam Landmark",
+    "code": "LM81"
+  },
+  {
+    "id": "e379ff65-a0a2-44cc-a27e-d50ff9d6ae0b",
+    "restaurant": "RuNam Lê Lợi",
+    "code": "SGC"
+  },
+  {
+    "id": "320c2dbd-8d32-4de1-b038-8058c26e7532",
+    "restaurant": "RuNam Đồng Khởi",
+    "code": "246DK"
+  },
+  {
+    "id": "a3e3902d-0b3e-4f71-b640-9ead7bc24d0f",
+    "restaurant": "Ciao Nguyễn Huệ",
+    "code": "74NH"
+  },
+  {
+    "id": "12439512-9fa1-4b3c-bb04-23726d1c32ae",
+    "restaurant": "Ciao Estella",
+    "code": "CAEST"
+  },
+  {
+    "id": "274f5147-9a30-453f-a094-e73a74b2de05",
+    "restaurant": "RuNam Nha Trang",
+    "code": "RNNT"
+  },
+  {
+    "id": "aa90f4b0-87cb-48dd-ad35-63f58bedbdf6",
+    "restaurant": "RuNam Phú Quốc",
+    "code": "RNPQ"
+  },
+  {
+    "id": "4e7dc695-b116-4d2c-8a18-7e12789c78e9",
+    "restaurant": "RuNam Phố Nhà Thờ",
+    "code": "13PNT"
+  },
+  {
+    "id": "e811a4d5-5b6b-4f9f-8192-69af8475137e",
+    "restaurant": "RuNam Lotte - Hà Nội",
+    "code": "RNLT"
+  },
+  {
+    "id": "93d031b4-a0a0-43c9-b08f-264a91b97483",
+    "restaurant": "RuNam Hồ Tràm",
+    "code": "RNHT"
+  },
+  {
+    "id": "1782c4e4-99b5-405c-9d2d-374430946fe8",
+    "restaurant": "RuNam D'or",
+    "code": "3CXP"
+  },
+  {
+    "id": "31d212a3-a2f9-4a3e-85ae-eedaf10f8ed1",
+    "restaurant": "Nhà Hàng Thanh Niên",
+    "code": "NHTN"
+  },
+  {
+    "id": "bcfd2ec9-56dd-4f1b-adb7-72393a57ee5e",
+    "restaurant": "RuNam Cambodia",
+    "code": "CPC"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "keys": "98d23063-1f43-4839-912f-d61cada0026b",
+    "bophan": "IT",
+    "tinhtrangAD": false,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  },
+  {
+    "keys": "d1287238-0cef-4766-b204-07df605ff6f7",
+    "bophan": "QC",
+    "tinhtrangAD": false,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  },
+  {
+    "keys": "43af7a15-3612-46c7-82b8-97bd1fcc4268",
+    "bophan": "ic",
+    "tinhtrangAD": false,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  },
+  {
+    "keys": "88970452-6cd7-4d00-b503-5093a251a035",
+    "bophan": "MKT",
+    "tinhtrangAD": false,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  },
+  {
+    "keys": "68834123-4dc0-4504-9b00-f5654b44e667",
+    "bophan": "ops",
+    "tinhtrangAD": false,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  },
+  {
+    "keys": "a471c3dd-16b1-4cc3-920e-53fe3493ad55",
+    "bophan": "DESIGN",
+    "tinhtrangAD": true,
+    "tinhtrangPass": false,
+    "chinhanh": false
+  }
+]
